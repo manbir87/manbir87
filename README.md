@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @manbir87
-- 👀 I’m interested in creating Human Computer Interactions / User Experiences 
-- 🌱 I’m currently learning HCI, HTML/CSS
+- 👀 I’m interested in creating Interactive webdesigns and application.
 - 💞️ I’m looking to collaborate on creating prototypes of your idea/ concept 
 - 📫 How to reach me manbir87@gmail.com
 
